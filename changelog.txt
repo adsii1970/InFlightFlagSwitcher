@@ -1,0 +1,27 @@
+04/11/2016 v1.1:
+	* Recompiled to work with KSP 1.2.1 
+	* Mod adopted by adsii1970 with permission from iPeer 
+	* See http://forum.kerbalspaceprogram.com/index.php?/topic/150745-a-question-about-the-gnu-general-public-license-v-          3/&do=findComment&comment=2827943
+
+---- PREVIOUS MOD RELEASE BY iPEER ----
+
+19/04/16, v1.0.2:
+	* Updated to work with KSP 1.1
+
+09/11/15, v1.0.1:
+	* Recompiled against KSP 1.0.5 binaries
+
+06/07/15, v1.0:
+	* Initial public release!
+
+05/07/15, v1.0-dev3:
+	* Fixed toolbar button not updating to the flag of other vessels when they're switched to
+	* Pre-release code refactoring!
+	* Can now toggle flag on a part-by-part basis (Right click the part you want to switch and hit "Change Flag")
+
+04/07/15, v1.0-dev2:
+	* No longer allows changing of flags while controlling Kerbals.
+	* Button will now remain visible while in map view.
+
+03/07/15, v1.0-dev1:
+	* Initial private release.
